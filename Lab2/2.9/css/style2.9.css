@@ -1,0 +1,18 @@
+* {
+    font-family: Times New Roman;
+    margin: 0;
+    font-size: 16px;
+}
+
+.center29 {
+    background: blue;
+    color: white;
+    width: 537px;
+    margin: 5px auto auto auto;
+    padding: 0;
+}
+
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+}
