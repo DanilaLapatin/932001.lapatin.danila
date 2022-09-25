@@ -1,0 +1,35 @@
+* {
+    font-family: Times New Roman;
+    margin: 0;
+    font-size: 13px;
+}
+
+.listblock {
+    float: left;
+    width: 30%;
+    height: 15%;
+    padding: 15px 0;
+    background: #f5f1cb;
+}
+
+.block {
+    width: 98%;
+    margin: 5px 10px 5px 5px;
+    float: left;
+    background: #2af7ed;
+}
+
+.content28 {
+    float: left;
+    width: 70%;
+    background: grey;
+}
+
+.footer28 {
+    position: fixed;
+    background: limegreen;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+}
