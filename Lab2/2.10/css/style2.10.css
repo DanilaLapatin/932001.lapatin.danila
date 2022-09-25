@@ -14,6 +14,7 @@
 }
 
 footer{
+    margin: 0 5px;
     clear: both;
     background: bisque;
 }
