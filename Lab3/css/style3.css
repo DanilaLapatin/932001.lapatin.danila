@@ -71,4 +71,11 @@ color: white;
     width: 100%;
     margin: 0;
 }
+.Content {  
+    width: 75%;
+    }
+.nav {
+    width: 25%;
+padding: 2em;
+    }
 }
