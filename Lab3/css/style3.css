@@ -1,0 +1,74 @@
+* {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+}
+
+.header {
+    background: green;
+    font-size: calc(29px - 1vw);
+    text-align: center;
+    padding: 5px;
+}
+
+.ContentBorder {
+    box-sizing: border-box;
+    width: 45vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    min-height: 95vh;
+}
+
+.nav {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    background: red;
+    font-size: calc(26px - 1vw);
+    padding: 2em 3em;
+    margin: 0 1em 0 0;
+    line-height: 160%;
+    width: 30%;
+    height: inherit;
+}
+
+.Content {
+    font-size: calc(26px - 1vw);
+    color: black;
+    padding: 2em 0.5em;
+    height: inherit;
+    width: 70%;
+    text-align: justify;
+}
+
+.red {
+    color: red;
+    font-size: calc(29px - 1vw);
+}
+
+.footer {
+    clear: both;
+    background: black;
+    text-align: center;
+    font-size: calc(26px - 1vw);
+    padding: 3px;
+    font-weight: bold;
+
+}
+
+A:hover {
+    background: green;
+}
+
+::selection {
+background: #5A965C; /*в приложенном текстовом файле этого цвета нет, но на приложенной картинке он есть*/
+color: white;
+}
+
+@media screen and (max-width: 1000px){
+.ContentBorder {
+    width: 100%;
+    margin: 0;
+}
+}
