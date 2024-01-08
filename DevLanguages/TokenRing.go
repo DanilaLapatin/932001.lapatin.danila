@@ -46,8 +46,9 @@ func main() {
 	    for recipient == firstsender {
 		    recipient = rand.Intn(N)
 	    }
+	    //переменная data будет содержать информацию о пересылках сообщения(а точнее, ссылки на него) между узлами
 	    data := ""
-		//strconv.Itoa(х) конвертирует х в string
+	    //strconv.Itoa(х) конвертирует х в string
 	    fmt.Println("Создано сообщение: получатель - "+strconv.Itoa(recipient)+", время жизни = "+strconv.Itoa(ttl))
 	    var t Token = Token{data,recipient,ttl}
 	    var chans = make([]chan *Token,N)//Задаётся массив каналов, передающих указатель на Token, размера N
