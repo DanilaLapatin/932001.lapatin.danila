@@ -1,0 +1,123 @@
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.csprojAssemblyReference.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\Пары\Web\Laba_11\931901.eremenko_web1-main\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\anyut\Desktop\Laba_11\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.csprojAssemblyReference.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\anyut\Desktop\Laba_11\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
