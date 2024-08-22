@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Загрузка-WebgeoPro
+{% endblock %}
+
+{% block body %}
+<div class="jumbotron">
+    <h1>Загрузка датасета - WebGeoPro</h1>
+    <p class="lead">Загрузите датасет в формате .xlsx или .csv. Колонка адресов должна называться "Клиент / Адрес".</p>
+    <p class="lead">Вы можете добавить дополнительные характеристики для визуализации.</p>
+    <p class="lead">Результат будет загружен на ваш компьютер в формате .html страницы по окончании обработки файла. </p>
+</div>
+<form name="form" action="/success" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" />
+    <p>Выберите характеристики и тип визуализации адресов</p>
+    <select id="work" name="workcol" list="colnames">
+        {% for opt in colnames %}
+        <option value="{{ opt }}">{{ opt }}</option>
+        {% endfor %}
+    </select>
+    <select id="type" name="VisType" list="VisTypes">
+        {% for opt in VisTypes %}
+        <option id="{{ opt }}" value="{{ opt }}">{{ opt }}</option>
+        {% endfor %}
+    </select>
+    <p id="inplbl">Для маркеров можно добавить верхнюю и нижнюю границы дополнительных значений </p>
+    <input id="inp1" placeholder="От" name="lowedge">
+    <input id="inp2" placeholder="До" name="highedge">
+
+    <p>Обработка может занять несколько минут</p>
+    <input class="btn btn-default" type="submit" value="Готово">
+</form>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    let select = document.getElementById('type');
+    let block = document.getElementById('work'); 
+    let inp1 = document.getElementById('inp1')
+    let inp2 = document.getElementById('inp2')
+    let inplbl = document.getElementById('inplbl')
+    select.addEventListener('change', function () {
+        if (select.value == 'Тепловая карта') {
+            block.style.display = "none"
+            inp1.style.display = "none"
+            inp2.style.display = "none"
+            inplbl.style.display = "none"
+        }
+        else {
+            block.style.display = "inline-block"
+            inp1.style.display = "block"
+            inp2.style.display = "inline-block"
+            inplbl.style.display = "block"
+        }
+    });
+</script>
+
+{% endblock %}
