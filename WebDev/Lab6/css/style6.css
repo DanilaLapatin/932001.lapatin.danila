@@ -1,0 +1,52 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    
+}
+
+.border {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.borderhead{
+    display: flex;
+    flex-direction: row;
+}
+.borderfoot{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.redbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+    min-width: 33.3%;
+    min-height: 2.5em;
+    border: 2px solid black;
+    font-size: 1em;
+    color: white;
+    font-family: sans-serif;
+}
+
+#leftdiv{
+    background: blue;
+    padding: 15px;
+    width: 50%;
+}
+
+#rightdiv{
+    background: darkgreen;
+    padding: 15px;
+    width: 50%;
+}
+img{
+    width: 100%;
+    height: 80%;
+}
+
+
