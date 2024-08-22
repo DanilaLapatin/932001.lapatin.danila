@@ -1,0 +1,160 @@
+body {
+    margin: 0;
+    background: black;
+} 
+#curtain {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 4;
+    transition: ease 0.2s;
+}
+
+#curtain:hover {
+    transform: translateY(-5%);
+}
+
+#curtainup {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 4;
+    animation: ease 3s sliden;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    transform: translateY(-5%);
+}
+
+@keyframes sliden {
+    0%
+    {
+        transform: translateY(-5%);
+    }
+    100% {
+        transform: translateY(-100%);
+    }
+}
+
+#lamp {
+    z-index: 2;
+    position: absolute;
+    margin-top: 0;
+    margin-left: 500px;
+    height: 300px;
+    display: block;
+
+}
+
+#light_on 
+{
+    border-bottom: 590px solid yellow;
+    border-left: 430px solid transparent;
+    border-right: 430px solid transparent;
+    width: 75px;
+    height: 0;
+    position: absolute;
+    top: 60px;
+    left: 183px;
+    opacity: 0.5;
+    z-index: 2;
+}
+
+#fairy {
+    position: absolute;
+    bottom: 5px;
+    left: 330px;
+    height: 320px;
+    z-index: 1;
+    display: none;
+}
+
+#focus{
+    position: absolute;
+    bottom: 30px;
+    right: 400px;
+	width: 120px;
+	height:250px;
+	display: none;
+    z-index: 2;
+}
+
+#hat {
+    position: absolute;
+    width: 120px;
+    height: 100px;
+	top: 150px;
+    z-index: 2;
+    display: block;
+
+}
+
+#rabbit_hidden {
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 100px;
+    z-index: 0;
+    display: none;
+
+}
+
+#rabbit_show {
+    position: absolute;
+    z-index: 1;
+    width: 100px;
+    height: 100px;
+    display:block;
+    left: 5px;
+    right: 5px;
+    bottom: 100px;
+	opacity: 0.4;
+    animation: ease 1s rabbit_focus;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes rabbit_focus {
+    0% {
+        transform: translateY(30%);
+    }
+
+    100% {
+        transform: translateY(-40%);
+    }
+}
+
+#pigeon_hidden {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    bottom: 100px;
+    z-index: 0;
+    display: none;
+}
+
+#pigeon_show {
+	width: 90px;
+    height: 90px;
+    position: absolute;
+    bottom: 100px;
+    z-index: 1;
+    display:block;
+	opacity: 0.4;
+    animation: ease 1s pigeon_focus;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes pigeon_focus {
+    0% 
+	{
+		transform: translateY(30%);
+    }
+
+    100%
+       {
+        transform: translateY(-40%);
+        z-index: 0;
+    }
+}
