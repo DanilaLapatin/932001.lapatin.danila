@@ -1,0 +1,11 @@
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\bin\Debug\ProxyApp.exe.config
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\bin\Debug\ProxyApp.exe
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\bin\Debug\ProxyApp.pdb
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.csproj.AssemblyReference.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.Properties.Resources.resources
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.csproj.GenerateResource.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.csproj.CoreCompileInputs.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.exe
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.pdb
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\ProxyApp\ProxyApp\obj\Debug\ProxyApp.Form1.resources
