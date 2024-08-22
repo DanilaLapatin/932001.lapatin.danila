@@ -1,0 +1,58 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.head {
+    padding: 10px;
+    width: 15%;
+}
+
+button {
+    padding: 0 2px;
+}
+
+.rectangle {
+    position: absolute;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 1px solid black;
+    opacity: 0.9;
+}
+.rectangle:hover{
+     background: yellow;
+}
+
+.circle {
+    position: absolute;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background: green;
+    border-radius: 50%;
+    border: 1px solid black;
+    opacity: 0.7;
+}
+.circle:hover{
+     background: yellow;
+}
+.triangle {
+    position: absolute;
+    margin: 20px;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom-color:blue;
+    border-bottom-style: solid;
+    border-bottom-width:50px;
+
+    opacity: 0.8;
+}
+.triangle:hover{
+     border-bottom-color:yellow;
+}
