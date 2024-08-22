@@ -1,0 +1,11 @@
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\bin\Debug\LabSimmod3.exe.config
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\bin\Debug\LabSimmod3.exe
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\bin\Debug\LabSimmod3.pdb
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.csproj.AssemblyReference.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.Form1.resources
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.Properties.Resources.resources
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.csproj.GenerateResource.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.csproj.CoreCompileInputs.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.exe
+C:\Users\lapat\Desktop\3 курс, 2 семестр\имитационное моделирование\LabSimmod3\LabSimmod3\obj\Debug\LabSimmod3.pdb
