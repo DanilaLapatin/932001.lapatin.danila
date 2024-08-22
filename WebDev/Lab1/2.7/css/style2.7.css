@@ -1,0 +1,53 @@
+* {
+    font-family: Times New Roman;
+    margin: 0;
+    font-size: 16px;
+}
+
+.block27{
+    width: 150px;
+    height: 100px;
+    color: white;
+    margin: 0 0 0 6px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.block27:first-child{
+    margin: 6px 0 0 6px;
+    background: #8b00ff;
+    position: static;
+}
+.block27:nth-child(2){
+    background: #990000;
+    position: relative;
+}
+.block27:nth-child(3){
+    background: #cea262;
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+}
+.block27:nth-child(4){
+    background: #e66761;
+    position: relative;
+    width: 600px;
+    height: 400px;
+}
+.block27in{
+    background: #540099;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: 20%;
+    right: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.block27:nth-child(5){
+    background: green;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+}
